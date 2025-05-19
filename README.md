@@ -6,7 +6,7 @@ CONTENT WARNING: i am VERY honest about questions
 
 ![The Operator](https://komarev.com/ghpvc/?username=dark-suitt&color=3c091e&style=flat-square)
   
-   𓆩⋅•⋅⊰ [Strawpage](https://the-operator.straw.page/) ♱ [Atabook](https://thesuit.atabook.org/) ⊱⋅•⋅𓆪
+   𓆩⋅•⋅⊰ [Strawpage](https://thesuit.straw.page/) ♱ [Atabook](https://thesuit.atabook.org/) ⊱⋅•⋅𓆪
 </h1> 
 
 <p align="center">
