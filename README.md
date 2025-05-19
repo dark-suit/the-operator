@@ -10,7 +10,7 @@ CONTENT WARNING: i am VERY honest about questions
 </h1> 
 
 <p align="center">
-    <img width="400" src="https://i.pinimg.com/originals/7d/af/7a/7daf7af31e0012023fb2f7dd7975a335.gif" alt="run">
+    <img width="400" src="https://i.pinimg.com/736x/51/c9/c6/51c9c6cadb4134658d1ca88fa8310937.jpg" alt="run">
 </p>
 
 <h3 align="center">⇣⇡﹒@[The Suit]﹕♡﹒
@@ -24,4 +24,4 @@ CONTENT WARNING: i am VERY honest about questions
 ”-the goals of my broader vision„ ⋆☾
 
 
-  <img width="200" src="https://i.pinimg.com/originals/04/42/f7/0442f7fd0dea5dd5019d06ed4b518f79.gif" alt="snow"> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kxgcliwcskgcwvjc57akfwbihu&cover_image=true&theme=novatorem&show_offline=true&background_color=09021d&interchange=false&bar_color=3c091e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <img width="200" src="https://i.pinimg.com/originals/fa/5a/8b/fa5a8bd276205020875f432aa9f59d6a.gif" alt="bark"></h3>
+  <img width="200" src="https://i.pinimg.com/736x/6b/50/a5/6b50a5ee6b7c214cf22b6d364a1347bb.jpg" alt="I"> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kxgcliwcskgcwvjc57akfwbihu&cover_image=true&theme=novatorem&show_offline=true&background_color=09021d&interchange=false&bar_color=3c091e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <img width="200" src="https://i.pinimg.com/736x/24/a1/fa/24a1fac906cc70e14b5bb8a0a5431a2c.jpg" alt="watching"></h3>
